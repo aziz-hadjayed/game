@@ -12,3 +12,4 @@ fenouil
 pasteque
 azert
 sava
+khawla
